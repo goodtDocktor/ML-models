@@ -12,3 +12,8 @@ For a presidential election, campaign organizers for both the Republican and Dem
 **2. _customer-churn:_**
 Research Question: Can we predict whether a customer will churn (cancel their subscription) or not based on their usage behavior and demographics using Decision Trees and Random Forest classifiers?
 This project uses the “digits” dataset from sklearn & the answer to the RQ is discussed at the end.
+
+**3. _knn-implentation-and-comparisons:_**
+This project has two-parts:
+_Part I_ - implements K-NN from scratch as well as uses tools built into sklearn. This section of the project uses the resulting K-NN algorithms to compare to other algorithms.
+_Part II_ - uses the dataset forestfires.csv to predict the extent of burned area in forest fires based on the given weather and enviromental attributes. The answer to the RQ is discussed at the end.
